@@ -20,7 +20,7 @@ Research Architect
 **Scope**  
 This registry provides a unified index of all major digital assets within the `stack` directory. It includes specifications, whitepapers, and operational tooling that collectively define and support the local AI engineering environment.
 
-**Primary Model / Scheme**  [2026‑0001‑D‑tmpl‑001]
+**Primary Model / Scheme**  [2026-0001-D-tmpl-001](https://github.com/WilliamMurray-research/2026-0001-D/blob/main/docs/tmpl/001.md)  
 
 ---
 
