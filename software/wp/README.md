@@ -24,13 +24,17 @@ Research Architect
 
 <div align="center">
 
-  <h1>Whitepapers</h1>  
+  <h2>Whitepapers</h2>  
   
 | Document Reference | Version | Title | Description |
 |---|---|---|---|
-| [stack-software-000](https://github.com/WilliamMurray-research/stack/blob/main/software/001.md) | 0.1 | Building a Local AI Engineering Stack Using Anything LLM, Unsloth Desktop, DeepSeek Harness, llama.cpp, and Codium | A fully local AI engineering stack built with Anything LLM, Unsloth Desktop, DeepSeek Harness, llama.cpp, and Codium creates a private, high‑performance ecosystem where orchestration, fine‑tuning, agent reasoning, lightweight inference, and IDE integration work together seamlessly to support end‑to‑end development workflows. Anything LLM acts as the central router and RAG engine, Unsloth enables rapid model specialization, DeepSeek Harness provides structured agent execution and function calling, llama.cpp delivers fast GGUF inference, and Codium brings AI assistance directly into the editor—forming a modular, extensible architecture for local software engineering automation. |
-| [stack-software-002](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/docs/wp/002.md) | 0.1 |  |  |
-| [stack-software-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/docs/wp/003.md) | 0.1 | | |
+| [stack-software-wp-001](https://github.com/WilliamMurray-research/stack/blob/main/software/wp/001.md) | 0.1 | Building a Local AI Engineering Stack Using Anything LLM, Unsloth Desktop, OpenCode, llama.cpp, and Codium | Together, these tools form a unified ecosystem capable of supporting model inference, fine‑tuning, agent workflows, RAG pipelines, IDE integration, and local API services. |
+| [stack/softwarre/wp/002](https://github.com/WilliamMurray-research/stack/blob/main/software/wp/002.md) | 0.1 | Configuring Sourcetree and Obsidian with Git on Ubuntu Linux | Describes a complete, reproducible workflow for integrating Obsidian (a Markdown‑based knowledge management system) with Git and Sourcetree on Ubuntu Linux. |
+| [stack-software-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/003.md) | 0.1 | Model Selection for Offline Metadata Extraction | Technical Assessment Report - Gemma 3 E2B vs. Bonsai 8B 1bit for directory level metadata extraction |
+| [stack-software-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/003.md) | 0.1 | | |
+| [stack-software-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/003.md) | 0.1 | | |
+| [stack-software-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/003.md) | 0.1 | | |
+| [stack-software-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/003.md) | 0.1 | | |
 
 </div>
 
