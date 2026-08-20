@@ -33,7 +33,7 @@
 
 <div align="center">
 
-  <h2>[Whitepapers](https://github.com/WilliamMurray-research/stack/tree/main/software/wp)</h2>  
+<h2><a href="https://github.com/WilliamMurray-research/stack/tree/main/software/wp">Whitepapers</a></h2>
   
 | Document Reference | Version | Title | Description |
 |---|---|---|---|
