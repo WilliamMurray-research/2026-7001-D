@@ -5,7 +5,7 @@
 **CLASSIFICATION**: D  
 
 **Document Reference**: `stack-software-specs-000` 
-# Specs Asset Registry  
+# Specifications Asset Registry  
 ### Tooling  
 
 **Version**: 0.1       
@@ -24,7 +24,7 @@ Research Architect
 
 <div align="center">
 
-  <h1>Specifications</h1>  
+<h2>Specifications - Asset Registry</h2>  
   
 | Document Reference | Version | Title | Description |
 |---|---|---|---|
