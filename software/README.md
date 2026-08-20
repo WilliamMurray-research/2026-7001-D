@@ -33,7 +33,7 @@
 
 <div align="center">
 
-<h2><a href="https://github.com/WilliamMurray-research/stack/tree/main/software/specs">Specifications</a></h2>
+<h2><a href="https://github.com/WilliamMurray-research/stack/tree/main/software/wp">Whitepapers</a></h2>
   
 | Document Reference | Version | Title | Description |
 |---|---|---|---|
@@ -45,7 +45,7 @@
 | [stack-software-006](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/006.md) | 0.1 | | |
 | [stack-software-007](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/software/wp/007.md) | 0.1 | | |
 
-<h2><a href="https://github.com/WilliamMurray-research/stack/tree/main/software/wp">Whitepapers</a></h2>
+<h2><a href="https://github.com/WilliamMurray-research/stack/tree/main/software/specs">Specifications</a></h2>
   
 | Document Reference | Version | Title | Description |
 |---|---|---|---|
