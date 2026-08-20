@@ -51,7 +51,7 @@
 |---|---|---|---|
 | [stack-software-specs-000](https://github.com/WilliamMurray-research/stack/blob/main/software/specs/001.md) | 0.1 | Agentic Directory Operations in a Local AI Engineering Stack | Defines the architecture, tooling, and workflow required for agentic, recursive directory‑level operations within a fully local AI engineering environment. |
 | [stack-software-specs-002](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/docs/software/specs/002.md) | 0.1 | Local Git Integration and Optional Obsidian Workflow for AI‑Driven Engineering | Specifies Git‑aware agent workflows, documentation integration, and optional Obsidian vault ingestion for unified project reasoning. |
-| [stack-software-specs-003](https://github.com/WilliamMurray-research/2026-2001-D/blob/main/docs/software/specs/003.md) | 0.1 | Sandboxed Development Environments on Ubuntu (venv, system sandboxing, Docker) | Defines a layered sandboxing model using venv, restricted users, AppArmor, systemd, chroot, and Docker for secure agentic execution |
+| [stack-software-specs-003](https://github.com/WilliamMurray-research/stack/blob/main/software/specs/003.md) | 0.1 | Sandboxed Development Environments on Ubuntu (venv, system sandboxing, Docker) | Defines a layered sandboxing model using venv, restricted users, AppArmor, systemd, chroot, and Docker for secure agentic execution |
 
 
 </div>
