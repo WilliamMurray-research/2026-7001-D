@@ -1,3 +1,8 @@
+`2026-7001-D/bash/README.md`
+
+---
+
+
 # **Bash Tools**
 Small Bash scripts I use for system monitoring and hardware control. Nothing fancy — just practical utilities that help me manage my machine while I work.
 
