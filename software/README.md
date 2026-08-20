@@ -1,10 +1,10 @@
-`stack/software/README.md`  
+`2026-7001-D/software/README.md`
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `stack-software-read-000`  
+**Document Reference**: ``2026-7001-D-software-read-000`  
 # Software Asset Registry  
 ### Infrastructure    
 
