@@ -30,11 +30,10 @@
 
 ---
 
-| **Document Ref** | **Version** | **Title** | **Description** |
-| :--- | :--- | :--- | :--- |
+
 <div align="center">
 
-  <h2>Whitepapers</h2>  
+  <h2>[Whitepapers](https://github.com/WilliamMurray-research/stack/tree/main/software/wp)</h2>  
   
 | Document Reference | Version | Title | Description |
 |---|---|---|---|
