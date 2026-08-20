@@ -30,7 +30,7 @@
 
 ---
 
-| **Document Ref** | **Version** | **Comments** | **Description** |
+| **Document Ref** | **Version** | **Title** | **Description** |
 | :--- | :--- | :--- | :--- |
 |  |  |  |  |
 |  |  |  |  |
