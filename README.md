@@ -1,10 +1,10 @@
-`stack/README.md`
+`2026-7001-D/README.md`
 
 ---
 
 **CLASSIFICATION**: D  
 
-**Document Reference**: `stack-000`  
+**Document Reference**: `2026-7001-D-read-000`  
 
 # Stack Asset Registry  
 ### Tooling  
@@ -20,8 +20,7 @@ Research Architect
 **Scope**  
 This registry provides a unified index of all major digital assets within the `stack` directory. It includes specifications, whitepapers, and operational tooling that collectively define and support the local AI engineering environment.
 
-**Primary Model / Scheme**  
-2026‑0001‑D‑tmp‑001
+**Primary Model / Scheme**  [2026‑0001‑D‑tmpl‑001]
 
 ---
 
